@@ -1,4 +1,5 @@
-<img src = 'https: //bettercodehub.com/edge/badge/mickuki112/ArmyQuiz? branch = master'>
+[! [Zgodność z BCH] (https://bettercodehub.com/edge/badge/mickuki112/ArmyQuiz?branch=master)] (https://bettercodehub.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
