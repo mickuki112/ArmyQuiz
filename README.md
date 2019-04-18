@@ -1,4 +1,4 @@
-[![BCH compliance](https://bettercodehub.com/edge/badge/mickuki112/ArmyQuiz?branch=master)
+[![BCH compliance](https://bettercodehub.com/edge/badge/mickuki112/ArmyQuiz?branch=master)](https://bettercodehub.com/)
 </br>
 > **Online:** https://stopnie-wojskowe-quiz.netlify.com/
 
