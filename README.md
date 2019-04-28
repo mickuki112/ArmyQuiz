@@ -1,7 +1,7 @@
 # Stopnie Wojskowe Quiz
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/mickuki112/ArmyQuiz?branch=master)](https://bettercodehub.com/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e8c50ed7-0bc6-45d2-9eee-b49534bfa51b/deploy-status)](https://app.netlify.com/sites/zen-shannon-d6a159/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c3f4140b-25a1-4233-99be-ea40f6aadd30/deploy-status)](https://app.netlify.com/sites/stopnie-wojskowe-quiz/deploys)
 
 
 > **Online:** https://stopnie-wojskowe-quiz.netlify.com/
